@@ -6,9 +6,13 @@
         align-items: center; /* Adjust as needed */
         background-color: #333; /* Example background color */
         text-align: center; 
-        color: white;
         padding: 10px; /* Example padding */
         width:100%;
         list-style: none;
         margin: 0;
+    }
+    nav a {
+        font-weight: bold; /* Apply bold font weight to navigation links */
+        text-decoration: none; /* Remove underline from navigation links */
+        color: white; /* Set text color to white for navigation links */
     }
