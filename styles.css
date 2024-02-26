@@ -18,13 +18,12 @@ nav {
         color:white;
         text-decoration:none;
         font-weight:bold;
+        margin-right:5%;
        }
         nav.nav-right{
         color:white;
         text-decoration:none;
-        font-weight:bold;
-        text-align: right;     
-        margin-right:100px;
-        align-items:end;
+        font-weight:bold;  
+        margin-right:5%;
         }
         
