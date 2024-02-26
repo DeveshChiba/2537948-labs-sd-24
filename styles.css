@@ -5,6 +5,8 @@
         flex-direction: row;
         align-items: center; /* Adjust as needed */
         background-color: #333; /* Example background color */
+        text-align: center; 
+        color: white;
         padding: 10px; /* Example padding */
         width:100%;
         list-style: none;
