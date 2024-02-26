@@ -3,7 +3,7 @@
       justify-content: center; /* Centers items horizontally */
       height: 100vh; /* Makes the container take the full height of the viewport */
       margin: 0; /* Remove default margin */
-      padding: 0; /* Remove default padding */
+      padding: 10px; /* Remove default padding */
     }
     h1{
         display: flex;
