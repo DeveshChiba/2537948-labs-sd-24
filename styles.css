@@ -11,14 +11,14 @@ nav {
         text-decoration: none; /* Remove underline from navigation links */
         color: white; /* Set text color to white for navigation links */
         text-align: right; 
-        
+        margin:0;
     }
 
        nav.welcome-nav {
         color:white;
         text-decoration:none;
         font-weight:bold;
-        margin:0;
+        
        }
         nav.nav-right{
         color:white;
