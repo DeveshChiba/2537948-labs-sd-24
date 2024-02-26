@@ -7,14 +7,11 @@ nav {
         padding: 10px; /* Example padding */
         width:100%;
         list-style: none;
-        
-    }
-    nav a {
         font-weight: bold; /* Apply bold font weight to navigation links */
         text-decoration: none; /* Remove underline from navigation links */
         color: white; /* Set text color to white for navigation links */
         text-align: right; 
-        margin-left:auto
+        
     }
 
        nav.welcome-nav {
@@ -23,8 +20,11 @@ nav {
         font-weight:bold;
        }
         nav.nav-right{
+        color:white;
+        text-decoration:none;
+        font-weight:bold;
         text-align: right;     
-        margin-left:auto;
+        margin-right:100px;
         align-items:end;
         }
         
