@@ -7,8 +7,6 @@ nav {
         padding: 10px; /* Example padding */
         width:100%;
         list-style: none;
-        margin-left:auto;
-        margin-right:100px;
     }
     nav a {
         font-weight: bold; /* Apply bold font weight to navigation links */
@@ -22,3 +20,8 @@ nav {
         text-decoration:none;
         font-weight:bold;
        }
+        nav.ite{
+                margin-left:auto;
+        margin-right:100px;
+                
+        }
