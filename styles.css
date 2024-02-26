@@ -1,4 +1,4 @@
- nav {
+nav {
         display: flex;
         justify-content: space-around; /* Adjust as needed */
         flex-direction: row;
@@ -15,3 +15,9 @@
         text-decoration: none; /* Remove underline from navigation links */
         color: white; /* Set text color to white for navigation links */
     }
+
+       nav.welcome-nav {
+        color:white;
+        text-decoration:none;
+        font-weight:bold;
+       }
