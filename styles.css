@@ -20,6 +20,7 @@
         align-items: center; /* Adjust as needed */
         background-color: #333; /* Example background color */
         padding: 10px; /* Example padding */
-        flex direction: row;
+        flex-flow: row wrap;
+        justify-content:flex-end;
         width:100%;
     }
