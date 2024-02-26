@@ -4,7 +4,6 @@ nav {
         flex-direction: row;
         align-items: end; /* Adjust as needed */
         background-color: #333; /* Example background color */
-        text-align: right; 
         padding: 10px; /* Example padding */
         width:100%;
         list-style: none;
@@ -14,6 +13,7 @@ nav {
         font-weight: bold; /* Apply bold font weight to navigation links */
         text-decoration: none; /* Remove underline from navigation links */
         color: white; /* Set text color to white for navigation links */
+        text-align: right; 
     }
 
        nav.welcome-nav {
