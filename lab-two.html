@@ -5,14 +5,18 @@
     lab-two
     </title>
     <style>
-      body{
-        display:flex;
-        justify-content: center;
-        align-items: center;
-      }
-       span {
-        width: 600; /* Width of each item */
-        height: 400; /* Height of each item */
+      body {
+        display: flex; /* This sets up a flex container */
+        justify-content: center; /* Centers items horizontally */
+        align-items: center; /* Centers items vertically */
+        height: 100; /* Makes the container take the full height of the viewport */
+        margin: 0; /* Remove default margin */
+        padding: 0; /* Remove default padding */
+    }
+    img {
+        width: 600; /* Width of each image */
+        height: 400; /* Maintain aspect ratio */
+        margin: 10; /* Margin around each image */
     }
     </style>
   </head>
@@ -27,9 +31,9 @@
   <body>
     <h1 style="text-align:center;"> About Us</h1>
     <p style="text-align:center;"> We are a company dedicated to providing excellent services to our customers.</p>
-   <span>
+  
     <img src="Liverpool_FC_crest,_Main_Stand.jpg" alt="LFC" width="600" height="400"/>
-   </span>
+  
       <img src="pexels-photo-760731.jpeg" alt="Motivational Quote" width="600" height="400" align="left"/>
       <img src="Stoic.jpeg" alt="Stoic" width="600" height="400" align="right"/>
     
