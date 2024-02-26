@@ -16,3 +16,7 @@
         text-decoration: none; /* Remove underline from navigation links */
         color: white; /* Set text color to white for navigation links */
     }
+    .welcome{
+        font-weight:bold;
+        color: white;        
+    }
