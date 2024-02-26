@@ -15,4 +15,5 @@
        nav.welcome-nav a {
            color: white; /* Set the text color of the hyperlinks to white */
            text-decoration: none; /* Remove underline from hyperlinks */
+       list-style: none;
        }
