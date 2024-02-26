@@ -9,6 +9,7 @@ nav {
         list-style: none;
         margin: 0;
         margin-right:100px
+        margin-left:auto;
     }
     nav a {
         font-weight: bold; /* Apply bold font weight to navigation links */
