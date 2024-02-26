@@ -16,7 +16,7 @@
     }
     nav {
         display: flex;
-        justify-content: space-around; /* Adjust as needed */
+        justify-content: center; /* Adjust as needed */
         align-items: center; /* Adjust as needed */
         background-color: #333; /* Example background color */
         padding: 10px; /* Example padding */
