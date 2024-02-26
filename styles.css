@@ -22,7 +22,7 @@ nav {
         text-decoration:none;
         font-weight:bold;
        }
-        nav.right{
+        nav.nav-right{
         text-align: right;     
         margin-left:100px;
         align-items:end;
