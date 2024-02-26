@@ -4,7 +4,7 @@ nav {
         flex-direction: row;
         align-items: end; /* Adjust as needed */
         background-color: #333; /* Example background color */
-        text-align: center; 
+        text-align: right; 
         padding: 10px; /* Example padding */
         width:100%;
         list-style: none;
