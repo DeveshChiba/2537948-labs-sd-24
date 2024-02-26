@@ -1,19 +1,4 @@
-    body {
-      display: flex; /* This sets up a flex container */
-      justify-content: center; /* Centers items horizontally */
-      height: 100vh; /* Makes the container take the full height of the viewport */
-      margin: 0; /* Remove default margin */
-      padding: 10px; /* Remove default padding */
-    }
-    h1{
-        display: flex;
-        margin-left:auto;
-        margin-right:auto;
-    }
-    img {
-      width: 600px; /* Width of each image */
-      height: 400px; /* Maintain aspect ratio */
-    }
+
     nav {
         display: flex;
         justify-content: space-around; /* Adjust as needed */
