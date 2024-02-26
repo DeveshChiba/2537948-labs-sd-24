@@ -1,19 +1,17 @@
-
-
-       nav.welcome-nav {
+ nav {
         display: flex;
-        justify-content: space-around;
-        align-items: center;
-        background-color: #333;
-        color: white;
-        font-weight: bold; /* Add font-weight to make the text bold */
-        padding: 10px;
-        width: 100%;
+        justify-content: space-around; /* Adjust as needed */
+        flex-direction: row;
+        align-items: center; /* Adjust as needed */
+        background-color: #333; /* Example background color */
+        text-align: center; 
+        padding: 10px; /* Example padding */
+        width:100%;
         list-style: none;
         margin: 0;
     }
-       nav.welcome-nav a {
-           color: white; /* Set the text color of the hyperlinks to white */
-           text-decoration: none; /* Remove underline from hyperlinks */
-       list-style: none;
-       }
+    nav a {
+        font-weight: bold; /* Apply bold font weight to navigation links */
+        text-decoration: none; /* Remove underline from navigation links */
+        color: white; /* Set text color to white for navigation links */
+    }
